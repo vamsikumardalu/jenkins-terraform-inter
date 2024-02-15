@@ -1,6 +1,7 @@
 provider "aws" {
   # Configuration options
   region = "us-east-2"
-  access_key =  "AKIARGE4PYVDWY72FQWH"
-  secret_key = "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"
+  access_key =  "AKIA6FBVP336JXP4S7VV"
+  secret_key =  "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"
 }
+
